@@ -189,12 +189,6 @@ if not st.session_state.authenticated:
                 else:
                     st.error("Username atau password salah.")
 
-        st.warning("""
-        **Akun Pengujian Demo:**
-        * **Admin Ekbang:** `admin_ekbang` | Pass: `admin123`
-        * **OPD Disdik:** `staf_disdik` | Pass: `disdik123`
-        * **OPD Dinkes:** `staf_dinkes` | Pass: `dinkes123`
-        """)
 
 # ---------------------------------------------------------
 # 3. HALAMAN UTAMA APLIKASI WEB
