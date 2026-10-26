@@ -1,0 +1,9 @@
+streamlit
+google-genai
+pypdf
+python-docx
+openpyxl
+python-pptx
+pillow
+easyocr
+plotly
